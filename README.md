@@ -18,6 +18,6 @@ I am extremely passionate about coding and solving complex problems. I enjoy lea
 <img align="left" alt="java" width="40px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-plain.svg"/>
 <img align="left" alt="js" width="40px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="python" width="40px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-plain.svg"/>
-<img align="left" alt="selenium" width="40px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/selenium/selenium-original.svg"/>
-<img align="left" alt="git" width="40px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg"/>
-<img align="left" alt="linux" width="40px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg"/>
+<img align="left" alt="selenium" width="40px" style="padding-right:5px;padding-top:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/selenium/selenium-original.svg"/>
+<img align="left" alt="git" width="40px" style="padding-right:5px;padding-top:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg"/>
+<img align="left" alt="linux" width="40px" style="padding-right:5px;padding-top:5px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg"/>
