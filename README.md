@@ -1,4 +1,4 @@
-<meta name="author" content="Ethan Eill">
+# Ethan Eill 🏄
 
 **`Aspiring Software Engineer`**
 
