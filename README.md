@@ -5,7 +5,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/2459439/screenshots/5501265/media/bad3c2fcba88faaec641c8fec1ab8737.gif" alt="Coder GIF" width="400">
 
-I am extremely passionate about coding and solving complex problems. I enjoy learning new frameworks and creating personal projects that solve problems for myself. I hope to one day work as a software engineer and work with a fun team. I hope to gain experience and positively impact people with helpful technologies!
+I like to code!
 
 ---
 ### Languages and Frameworks 🧠
